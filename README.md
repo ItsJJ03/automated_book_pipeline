@@ -26,12 +26,3 @@ Data files in data/ are not tracked by Git
 morning gates story
 
 
-.gitignore (optional)
-Create:
-data/*
-pycache/
-*.pyc
-*.pyo
-*.pyd
-*.env
-.cache/
